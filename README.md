@@ -49,7 +49,7 @@ EC TL Split Keyboard 18mmは、TRONキーボードを参考にしたキーボー
 ~~~
 
 ## ビルドガイド
-ビルドガイドは、[buildguide.md](https://github.com/satromi/ectlsplit18_rev1/blob/master/doc/buildguide.md) を参照してください。
+ビルドガイドは、[buildguide.md](https://github.com/satromi/ectlsplit18_rev1/blob/master/buildguide.md) を参照してください。
 
 ## Rev0との違い
 Rev0のプリント基板を修正したバージョンです。
